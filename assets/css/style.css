@@ -938,7 +938,8 @@ a:hover {
 }
 .testimonial-box .author-test img {
   margin: 0 auto;
-
+  height: 200px;
+  width: 200px;
 }
 .testimonial-box .author {
   color: #fff;
