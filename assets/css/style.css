@@ -938,6 +938,8 @@ a:hover {
 }
 .testimonial-box .author-test img {
   margin: 0 auto;
+  height: 160px;
+  width: 160px;
 }
 .testimonial-box .author {
   color: #fff;
@@ -961,6 +963,7 @@ a:hover {
 @media (min-width: 768px) {
   .testimonial-box .description {
     padding: 0 5rem;
+    text-align: justify;
   }
 }
 @media (min-width: 992px) {
